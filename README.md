@@ -8,7 +8,7 @@
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.youtube.com/channel/UCmpXdOaZAIXfAG4kKSdrPDA)
 
-# I'm a Student, Developer, YouTuber, and Freelancer!!!
+# I'm a Developer, YouTuber, and Freelancer!!!
 
 - 🌱 I’m currently learning everything 📝
 - 👯 I’m looking to collaborate with other content creators 🎥
