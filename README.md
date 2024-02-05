@@ -1,3 +1,32 @@
+
+# Hi there, I'm Riyam Hazim - full stack developer !!! 👋
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/saurabh-pandey-161348200](https://www.linkedin.com/in/riyam-hazim-17a39a246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/inertiaa)
+[![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/reddevill)
+[![YouTube](https://img.shields.io/badge/code_inertia-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCmpXdOaZAIXfAG4kKSdrPDA)
+
+
+
+# I'm Developer and Freelancer!!!
+
+- 🌱 I’m currently learning everything 📝
+- 👯 I’m looking to collaborate with other content creators 🎥
+- 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
+- ⚡ Fun fact: I love photography 📸 and basketball 🏀
+
+
+
+
+
+
+
+
+
+
+
+
 ## Languages and Tools ⚙️
 
 <p> 
