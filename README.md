@@ -48,7 +48,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/riyam224/riyam224/output/github-contribution-grid-snake.svg" />
+  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=riyam224&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
   
   <br/><br/><br/>
 </div>
