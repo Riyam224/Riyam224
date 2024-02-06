@@ -57,10 +57,23 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats 🔥⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-riyam224.vercel.app/?user=riyam224&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<br>
+<p align="center">
+<a href="https://github.com/riyam224">
+<img align="center" alt="Riyam's Github stats"
+src="https://github-readme-stats.vercel.app/api?username=riyam224&show_icons=true&bg_color=00000000"/>
+</a>
+   </p>
+ <br>
+  <p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=riyam224&theme=onedark" alt="riyam224" /> 
+  </a>
+</p>
+ <br>
 
 </div>
 
